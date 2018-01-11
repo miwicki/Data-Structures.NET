@@ -34,6 +34,14 @@ namespace DoublyLinkedLists
             Console.ReadLine();
         }
 
+        static void PrintLinked(DLLNode node)
+        {
+            while (node != null)
+            {
+                Console.WriteLine(node.Val);
+                node = node.Next;
+            }
+        }
      
     }
 }
