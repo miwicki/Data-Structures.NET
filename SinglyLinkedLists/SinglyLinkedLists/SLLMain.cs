@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CodeChallenges.Week_02
+namespace SinglyLinkedLists
 {
     class SLLMain
     {
