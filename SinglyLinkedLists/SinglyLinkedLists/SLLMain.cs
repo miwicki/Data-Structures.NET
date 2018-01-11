@@ -43,6 +43,13 @@ namespace SinglyLinkedLists
             Console.ReadLine();
         }
 
-        
+         static void PrintLinked(SLLNode node)
+        {
+            while (node != null)
+            {
+                Console.WriteLine(node.Value);
+                node = node.Next;
+            }
+        }
     }
 }
