@@ -8,13 +8,14 @@ namespace TwoStacksOneQueue
     {
         public void Main(string[] args)
         {
-            QueueUsingTwoStacks q = new QueueUsingTwoStacks();
+            TwoStacksOneQueue Q = new TwoStacksOneQueue();
 
-            q.Enqueue(5);
-            q.Enqueue(500);
-            q.Enqueue(55);
+            Q.Enqueue(5);
+            Q.Enqueue(55);
+            Q.Enqueue(555);
 
-            int result = q.Dequeue();
+
+            int result = Q.Dequeue();
             Console.WriteLine(result);
         }
     }
