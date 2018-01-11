@@ -21,7 +21,7 @@ namespace Stacks
         public StackNode Pop()
         {
             StackNode poppedNode = Head;
-            Head = Head.Next;
+            Head = Head?.Next;
             return poppedNode;
         }
 
