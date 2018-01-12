@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\DoublyLinkedLists",
-    "\\SinglyLinkedLists",
-    "\\SinglyLinkedLists\\SinglyLinkedLists"
+    "\\Queues",
+    "\\Queues\\Queues"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\Queues\\Queues\\Queue.cs",
   "PreviewInSolutionExplorer": false
 }

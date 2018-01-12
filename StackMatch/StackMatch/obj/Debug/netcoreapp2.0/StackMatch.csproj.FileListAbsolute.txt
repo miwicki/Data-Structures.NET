@@ -1,0 +1,11 @@
+C:\Users\Matt\source\repos\Data-Structures.NET\StackMatch\StackMatch\obj\Debug\netcoreapp2.0\StackMatch.csprojResolveAssemblyReference.cache
+C:\Users\Matt\source\repos\Data-Structures.NET\StackMatch\StackMatch\obj\Debug\netcoreapp2.0\StackMatch.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\Data-Structures.NET\StackMatch\StackMatch\obj\Debug\netcoreapp2.0\StackMatch.AssemblyInfoInputs.cache
+C:\Users\Matt\source\repos\Data-Structures.NET\StackMatch\StackMatch\obj\Debug\netcoreapp2.0\StackMatch.AssemblyInfo.cs
+C:\Users\Matt\source\repos\Data-Structures.NET\StackMatch\StackMatch\bin\Debug\netcoreapp2.0\StackMatch.deps.json
+C:\Users\Matt\source\repos\Data-Structures.NET\StackMatch\StackMatch\bin\Debug\netcoreapp2.0\StackMatch.runtimeconfig.json
+C:\Users\Matt\source\repos\Data-Structures.NET\StackMatch\StackMatch\bin\Debug\netcoreapp2.0\StackMatch.runtimeconfig.dev.json
+C:\Users\Matt\source\repos\Data-Structures.NET\StackMatch\StackMatch\bin\Debug\netcoreapp2.0\StackMatch.dll
+C:\Users\Matt\source\repos\Data-Structures.NET\StackMatch\StackMatch\bin\Debug\netcoreapp2.0\StackMatch.pdb
+C:\Users\Matt\source\repos\Data-Structures.NET\StackMatch\StackMatch\obj\Debug\netcoreapp2.0\StackMatch.dll
+C:\Users\Matt\source\repos\Data-Structures.NET\StackMatch\StackMatch\obj\Debug\netcoreapp2.0\StackMatch.pdb
