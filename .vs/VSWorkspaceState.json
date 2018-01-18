@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ArrayOccurances",
-    "\\ArrayOccurances\\ArrayOccurances"
+    "\\ArrayOccurances\\ArrayOccurances",
+    "\\Trees",
+    "\\Trees\\Trees"
   ],
-  "SelectedNode": "\\ArrayOccurances\\ArrayOccurances\\ArrayOccurances.cs",
+  "SelectedNode": "\\Trees\\Trees.sln",
   "PreviewInSolutionExplorer": false
 }
